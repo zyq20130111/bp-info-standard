@@ -1,10 +1,10 @@
 {
-  "producer_account_name": "",
-  "producer_public_key": "",
+  "producer_account_name": "eosgalaxybp",
+  "producer_public_key": "EOS5EmMynemBu8MuzyQKcFCM2pHgyaLfcvNi9aUzQxS2Xr1mr69cU",
   "org": {
-    "candidate_name": "",
-    "website": "",
-    "code_of_conduct":"",
+    "candidate_name": "eosgalaxybp",
+    "website": "www.eosgalaxy.io",
+    "code_of_conduct":"www.eosgalaxy.io",
     "email":"",
     "branding":{
       "logo_256":"",
@@ -12,30 +12,30 @@
       "logo_svg":""
     },
     "location": {
-      "name": "",
-      "country": "",
-      "latitude": 0,
-      "longitude": 0
+      "name": "Bei Jing",
+      "country": "China",
+      "latitude": 39.92,
+      "longitude": 116.46
     },
     "social": {
-      "steemit": "",
-      "twitter": "",
+      "steemit": "https://steemit.com/@kevinxu/",
+      "twitter": "https://twitter.com/EOS_Galaxy",
       "youtube": "",
       "facebook": "",
-      "github":"",
-      "reddit": "",
+      "github":"https://github.com/EosGalaxy",
+      "reddit": "https://www.reddit.com/user/EOSGalaxy",
       "keybase": "",
-      "telegram": "",
+      "telegram": "https://t.me/joinchat/HU-8vBEBmUHmjZ1zu6zoow",
       "wechat":""
     }
   },
   "nodes": [
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+        "name": "Tokyo",
+        "country": "Japan",
+        "latitude": 35.42,
+        "longitude": 139.46
       },
       "is_producer": true,
       "p2p_endpoint": "",
