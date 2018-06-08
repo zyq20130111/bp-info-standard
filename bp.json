@@ -44,12 +44,12 @@
     },
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+        "name": "Bei Jing",
+        "country": "China",
+        "latitude": 39.92,
+        "longitude": 116.46
       },
-      "is_producer": false,
+      "is_producer": true,
       "p2p_endpoint": "",
       "api_endpoint": "",
       "ssl_endpoint": ""
